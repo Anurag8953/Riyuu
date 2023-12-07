@@ -223,7 +223,7 @@ START_IMG_URL = getenv("START_IMG_URL", None)
 #     "assets/SpotifyPlaylist.jpeg",
 # )
 
-PING_IMG_URL = "https://graph.org/file/e677ea79ecbdae5b8dbaa.jpg"
+PING_IMG_URL = "https://telegra.ph/file/d7ede14f8a4e56fdc424d.jpg"
 
 PLAYLIST_IMG_URL = "https://graph.org/file/6267bdf12362e80f1811b.jpg"
 
