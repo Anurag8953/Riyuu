@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/37ac22a79d7fa1182c721.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/692c17cc052a9249b182a.jpg" align="right" width="200" height="200"/>
 
 # Stranger Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
