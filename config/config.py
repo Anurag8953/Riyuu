@@ -229,7 +229,7 @@ PLAYLIST_IMG_URL = "https://graph.org/file/6267bdf12362e80f1811b.jpg"
 
 GLOBAL_IMG_URL = "https://graph.org/file/451add95a90955a01b6b0.jpg"
 
-STATS_IMG_URL = "https://graph.org/file/5f3d0d2c8e35a037e4663.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/edd388a42dd2c499fd868.jpg"
 
 TELEGRAM_AUDIO_URL = "https://graph.org/file/ca76280b0610c31f20051.jpg"
 
